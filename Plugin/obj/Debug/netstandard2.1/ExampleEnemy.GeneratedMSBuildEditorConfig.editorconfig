@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ExampleEnemy
+build_property.ProjectDir = C:\LethalModding\LC-ExampleEnemy\Plugin\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

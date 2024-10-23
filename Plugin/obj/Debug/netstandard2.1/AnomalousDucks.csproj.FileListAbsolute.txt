@@ -1,0 +1,16 @@
+C:\LethalModding\Anomalous Ducks\Plugin\bin\Debug\netstandard2.1\AnomalousDucks.deps.json
+C:\LethalModding\Anomalous Ducks\Plugin\bin\Debug\netstandard2.1\AnomalousDucks.dll
+C:\LethalModding\Anomalous Ducks\Plugin\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\LethalModding\Anomalous Ducks\Plugin\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\LethalModding\Anomalous Ducks\Plugin\bin\Debug\netstandard2.1\LethalLib.dll
+C:\LethalModding\Anomalous Ducks\Plugin\bin\Debug\netstandard2.1\Unity.Netcode.Runtime.dll
+C:\LethalModding\Anomalous Ducks\Plugin\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\AnomalousDucks.csproj.AssemblyReference.cache
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\AnomalousDucks.GeneratedMSBuildEditorConfig.editorconfig
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\AnomalousDucks.AssemblyInfoInputs.cache
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\AnomalousDucks.AssemblyInfo.cs
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\AnomalousDucks.csproj.CoreCompileInputs.cache
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\AnomalousDucks.sourcelink.json
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\AnomalousDucks.csproj.CopyComplete
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\AnomalousDucks.dll

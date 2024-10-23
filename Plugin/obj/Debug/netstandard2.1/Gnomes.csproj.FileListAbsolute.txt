@@ -1,0 +1,16 @@
+C:\LethalModding\Gnomes\Plugin\obj\Debug\netstandard2.1\Gnomes.csproj.AssemblyReference.cache
+C:\LethalModding\Gnomes\Plugin\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\LethalModding\Gnomes\Plugin\obj\Debug\netstandard2.1\Gnomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\LethalModding\Gnomes\Plugin\obj\Debug\netstandard2.1\Gnomes.AssemblyInfoInputs.cache
+C:\LethalModding\Gnomes\Plugin\obj\Debug\netstandard2.1\Gnomes.AssemblyInfo.cs
+C:\LethalModding\Gnomes\Plugin\obj\Debug\netstandard2.1\Gnomes.csproj.CoreCompileInputs.cache
+C:\LethalModding\Gnomes\Plugin\obj\Debug\netstandard2.1\Gnomes.sourcelink.json
+C:\LethalModding\Gnomes\Plugin\bin\Debug\netstandard2.1\Gnomes.deps.json
+C:\LethalModding\Gnomes\Plugin\bin\Debug\netstandard2.1\Gnomes.dll
+C:\LethalModding\Gnomes\Plugin\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\LethalModding\Gnomes\Plugin\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\LethalModding\Gnomes\Plugin\bin\Debug\netstandard2.1\LethalLib.dll
+C:\LethalModding\Gnomes\Plugin\bin\Debug\netstandard2.1\Unity.Netcode.Runtime.dll
+C:\LethalModding\Gnomes\Plugin\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\LethalModding\Gnomes\Plugin\obj\Debug\netstandard2.1\Gnomes.csproj.CopyComplete
+C:\LethalModding\Gnomes\Plugin\obj\Debug\netstandard2.1\Gnomes.dll

@@ -1,0 +1,14 @@
+C:\LethalModding\LC-ExampleEnemy\Plugin\bin\Debug\netstandard2.1\MistEyes.deps.json
+C:\LethalModding\LC-ExampleEnemy\Plugin\bin\Debug\netstandard2.1\MistEyes.dll
+C:\LethalModding\LC-ExampleEnemy\Plugin\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\LethalModding\LC-ExampleEnemy\Plugin\bin\Debug\netstandard2.1\LethalLib.dll
+C:\LethalModding\LC-ExampleEnemy\Plugin\bin\Debug\netstandard2.1\Unity.Netcode.Runtime.dll
+C:\LethalModding\LC-ExampleEnemy\Plugin\obj\Debug\netstandard2.1\MistEyes.csproj.AssemblyReference.cache
+C:\LethalModding\LC-ExampleEnemy\Plugin\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\LethalModding\LC-ExampleEnemy\Plugin\obj\Debug\netstandard2.1\MistEyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\LethalModding\LC-ExampleEnemy\Plugin\obj\Debug\netstandard2.1\MistEyes.AssemblyInfoInputs.cache
+C:\LethalModding\LC-ExampleEnemy\Plugin\obj\Debug\netstandard2.1\MistEyes.AssemblyInfo.cs
+C:\LethalModding\LC-ExampleEnemy\Plugin\obj\Debug\netstandard2.1\MistEyes.csproj.CoreCompileInputs.cache
+C:\LethalModding\LC-ExampleEnemy\Plugin\obj\Debug\netstandard2.1\MistEyes.sourcelink.json
+C:\LethalModding\LC-ExampleEnemy\Plugin\obj\Debug\netstandard2.1\MistEyes.csproj.CopyComplete
+C:\LethalModding\LC-ExampleEnemy\Plugin\obj\Debug\netstandard2.1\MistEyes.dll

@@ -1,0 +1,12 @@
+C:\LethalModding\NEW ACA\Plugin\bin\Release\netstandard2.1\AbandonedAssets.deps.json
+C:\LethalModding\NEW ACA\Plugin\bin\Release\netstandard2.1\AbandonedAssets.dll
+C:\LethalModding\NEW ACA\Plugin\bin\Release\netstandard2.1\LethalLib.dll
+C:\LethalModding\NEW ACA\Plugin\obj\Release\netstandard2.1\AbandonedAssets.csproj.AssemblyReference.cache
+C:\LethalModding\NEW ACA\Plugin\obj\Release\netstandard2.1\PluginInfo.cs
+C:\LethalModding\NEW ACA\Plugin\obj\Release\netstandard2.1\AbandonedAssets.GeneratedMSBuildEditorConfig.editorconfig
+C:\LethalModding\NEW ACA\Plugin\obj\Release\netstandard2.1\AbandonedAssets.AssemblyInfoInputs.cache
+C:\LethalModding\NEW ACA\Plugin\obj\Release\netstandard2.1\AbandonedAssets.AssemblyInfo.cs
+C:\LethalModding\NEW ACA\Plugin\obj\Release\netstandard2.1\AbandonedAssets.csproj.CoreCompileInputs.cache
+C:\LethalModding\NEW ACA\Plugin\obj\Release\netstandard2.1\AbandonedAssets.sourcelink.json
+C:\LethalModding\NEW ACA\Plugin\obj\Release\netstandard2.1\AbandonedAssets.csproj.CopyComplete
+C:\LethalModding\NEW ACA\Plugin\obj\Release\netstandard2.1\AbandonedAssets.dll

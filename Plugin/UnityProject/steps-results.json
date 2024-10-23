@@ -1,0 +1,123 @@
+{
+  "StartTime": "2024-10-23T10:34:38.9312743+01:00",
+  "EndTime": "2024-10-23T10:59:38.9047881+01:00",
+  "ElapsedSeconds": 199.80392909999998,
+  "Results": [
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.GenerateDefaultProjectStructureStep",
+      "elapsedSeconds": 0.0260688
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.ImportTextMeshProStep",
+      "elapsedSeconds": 0.5145063
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.GenerateGitIgnoreStep",
+      "elapsedSeconds": 0.0227115
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.GenerateReadmeStep",
+      "elapsedSeconds": 0.013998199999999999
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.PackagesInstallerStep",
+      "elapsedSeconds": 0.8888246
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.EnableNewInputSystemStep",
+      "elapsedSeconds": 1.6369890999999999
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.CacheProjectCatalogueStep",
+      "elapsedSeconds": 21.1357677
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.AssetRipperStep",
+      "elapsedSeconds": 74.72669719999999
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.MoveFilesInExportStep",
+      "elapsedSeconds": 0.11779379999999999
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.StripNGOGeneratedCodeStep",
+      "elapsedSeconds": 2.4759519
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.CopyGamePluginsStep",
+      "elapsedSeconds": 0.077204899999999993
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.CopyExplicitScriptFolderStep",
+      "elapsedSeconds": 0.0751792
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.EnableUnsafeCodeStep",
+      "elapsedSeconds": 0.0020020999999999997
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.CopyProjectSettingsStep",
+      "elapsedSeconds": 0.1100698
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.GuidRemapperStep",
+      "elapsedSeconds": 64.3500439
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.MakeProxyScriptsStep",
+      "elapsedSeconds": 0.0641216
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.CopyAssetRipperExportToProjectStep",
+      "elapsedSeconds": 10.0663711
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.MigrateProjectMaterialsStep",
+      "elapsedSeconds": 10.0960779
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.FixInputSystemAssetsStep",
+      "elapsedSeconds": 0.5073634
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.FixProjectFileIdsStep",
+      "elapsedSeconds": 0.7355069
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.InjectHDRPAssetsStep",
+      "elapsedSeconds": 0.14429
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.PatchLDRTexturesStep",
+      "elapsedSeconds": 4.8886416
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.PatchDiageticAudioMixersStep",
+      "elapsedSeconds": 0.0996358
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.ChangeSceneListStep",
+      "elapsedSeconds": 0.0780444
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.SortAssetTypesSteps",
+      "elapsedSeconds": 7.3142285
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.RestartEditorStep",
+      "elapsedSeconds": 0.0010007
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.ChangeGameViewResolutionStep",
+      "elapsedSeconds": 0.0245915
+    },
+    {
+      "fullName": "Nomnom.UnityProjectPatcher.Editor.Steps.OpenSceneStep",
+      "elapsedSeconds": 0.4822295
+    },
+    {
+      "fullName": "Nomnom.LethalCompanyProjectPatcher.Editor.FixES3Step",
+      "elapsedSeconds": 0.1280172
+    }
+  ]
+}

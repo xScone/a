@@ -1,0 +1,7 @@
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\Anomalous Ducks.csproj.AssemblyReference.cache
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\Anomalous Ducks.GeneratedMSBuildEditorConfig.editorconfig
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\Anomalous Ducks.AssemblyInfoInputs.cache
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\Anomalous Ducks.AssemblyInfo.cs
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\Anomalous Ducks.csproj.CoreCompileInputs.cache
+C:\LethalModding\Anomalous Ducks\Plugin\obj\Debug\netstandard2.1\Anomalous Ducks.sourcelink.json

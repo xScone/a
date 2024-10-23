@@ -1,0 +1,12 @@
+C:\LethalModding\Haunted Scrap\Plugin\bin\Debug\netstandard2.1\HauntedScrap.deps.json
+C:\LethalModding\Haunted Scrap\Plugin\bin\Debug\netstandard2.1\HauntedScrap.dll
+C:\LethalModding\Haunted Scrap\Plugin\bin\Debug\netstandard2.1\LethalLib.dll
+C:\LethalModding\Haunted Scrap\Plugin\obj\Debug\netstandard2.1\HauntedScrap.csproj.AssemblyReference.cache
+C:\LethalModding\Haunted Scrap\Plugin\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\LethalModding\Haunted Scrap\Plugin\obj\Debug\netstandard2.1\HauntedScrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\LethalModding\Haunted Scrap\Plugin\obj\Debug\netstandard2.1\HauntedScrap.AssemblyInfoInputs.cache
+C:\LethalModding\Haunted Scrap\Plugin\obj\Debug\netstandard2.1\HauntedScrap.AssemblyInfo.cs
+C:\LethalModding\Haunted Scrap\Plugin\obj\Debug\netstandard2.1\HauntedScrap.csproj.CoreCompileInputs.cache
+C:\LethalModding\Haunted Scrap\Plugin\obj\Debug\netstandard2.1\HauntedScrap.sourcelink.json
+C:\LethalModding\Haunted Scrap\Plugin\obj\Debug\netstandard2.1\HauntedScrap.csproj.CopyComplete
+C:\LethalModding\Haunted Scrap\Plugin\obj\Debug\netstandard2.1\HauntedScrap.dll
